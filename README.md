@@ -8,6 +8,10 @@ To see my progress on my ToDo List web application, [click here](https://ense374
 
 
 
+https://user-images.githubusercontent.com/90287606/139640747-9d1e7e39-0a16-4ebc-a0be-5bc1b9a06abc.mov
+
+
+
 
 
 https://user-images.githubusercontent.com/90287606/139640480-5db61fce-a122-4ecf-8fbb-5f594378f145.mov
