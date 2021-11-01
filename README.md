@@ -1,2 +1,3 @@
 # Projects
-Current projects I am working on
+
+To see my team's progress on our web application called Rate My Music, [click here.](https://github.com/arikapasha/RateMyMusic).
